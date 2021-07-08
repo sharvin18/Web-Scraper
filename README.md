@@ -6,11 +6,13 @@ A web scraping application written in NodeJs using various packages.
 
 # Usage
 
-'''sh
+```sh
+
 // Install the packages
 npm install
 
 // Run the project
 npm run test
-'''
+
+```
 
