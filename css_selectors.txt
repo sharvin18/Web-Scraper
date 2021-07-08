@@ -1,0 +1,5 @@
+/// CSS selectors required for fetching the corresponding data from web page.
+
+title = $('h1[class="TitleHeader__TitleText-sc-1wu6n3d-0 dxSWFG"]').text()
+rating = $('div[class="AggregateRatingButton__Rating-sc-1ll29m0-2 bmbYRW"] > span[class="AggregateRatingButton__RatingScore-sc-1ll29m0-1 iTLWoV"]').text()
+description = $('p[class="GenresAndPlot__Plot-cum89p-6 bUyrda"] > span[class="GenresAndPlot__TextContainerBreakpointXS_TO_M-cum89p-0 dcFkRD"]').text()
