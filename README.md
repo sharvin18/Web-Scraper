@@ -8,10 +8,10 @@ A web scraping application written in NodeJs using various packages.
 
 ```sh
 
-// Install the packages
+# Install the packages
 npm install
 
-// Run the project
+# Run the project
 npm run test
 
 ```
